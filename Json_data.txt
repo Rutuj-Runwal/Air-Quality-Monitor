@@ -1,0 +1,38 @@
+DATA FOR AHMEDABAD:-->
+
+{'status': 'ok', 'data':{'aqi': 130, 'idx': 8192, 
+'attributions': [
+		{'url': 'http://cpcb.nic.in/', 'name': 'CPCB - India Central Pollution Control Board', 'logo': 'India-CPCB.png'}, 
+		{'url': 'https://waqi.info/', 'name': 'World Air Quality Index Project'}
+	],
+	'city': {'geo': [22.9987886, 72.6029661], 'name': 'Maninagar, Ahmedabad, India', 'url': 'https://aqicn.org/city/india/ahmedabad/maninagar'}, 
+	'dominentpol': 'pm25', 
+	'iaqi': {'co': {'v': 1.4}, 'dew': {'v': 6}, 'h': {'v': 27.667}, 'no2': {'v': 16}, 'o3': {'v': 62.2}, 'p': {'v': 1010.7}, 'pm10': {'v': 77}, 
+	'pm25': {'v': 130}, 
+	'so2': {'v': 1.7}, 
+	't': {'v': 28.755}, 
+	'w': {'v': 9.245000000000001}}, 
+	'time': {'s': '2020-12-27 14:00:00', 'tz': '+05:30', 'v': 1609077600, 'iso': '2020-12-27T14:00:00+05:30'}, 
+
+	'forecast': 
+	{
+	'daily': 
+		{'o3': [
+			{'avg': 21, 'day': '2020-12-25', 'max': 52, 'min': 11}, {'avg': 21, 'day': '2020-12-26', 'max': 52, 'min': 13}, {'avg': 25, 'day': '2020-12-27', 'max': 57, 'min': 14}, {'avg': 10, 'day': '2020-12-28', 'max': 29, 'min': 1}, {'avg': 13, 'day': '2020-12-29', 'max': 36, 'min': 7}, {'avg': 29, 'day': '2020-12-30', 'max': 44, 'min': 12}, {'avg': 45, 'day': '2020-12-31', 'max': 46, 'min': 44}
+			], 
+		'pm10': [
+			{'avg': 54, 'day': '2020-12-25', 'max': 56, 'min': 47}, {'avg': 56, 'day': '2020-12-26', 'max': 57, 'min': 47}, {'avg': 91, 'day': '2020-12-27', 'max': 181, 'min': 45}, {'avg': 379, 'day': '2020-12-28', 'max': 392, 'min': 237}, {'avg': 125, 'day': '2020-12-29', 'max': 392, 'min': 70}, {'avg': 53, 'day': '2020-12-30', 'max': 65, 'min': 45}, {'avg': 48, 'day': '2020-12-31', 'max': 55, 'min': 45}, {'avg': 56, 'day': '2021-01-01', 'max': 57, 'min': 53}, {'avg': 60, 'day': '2021-01-02', 'max': 65, 'min': 55}
+		], 
+		'pm25': [
+			{'avg': 154, 'day': '2020-12-25', 'max': 156, 'min': 140}, {'avg': 156, 'day': '2020-12-26', 'max': 157, 'min': 140}, {'avg': 151, 'day': '2020-12-27', 'max': 167, 'min': 91}, {'avg': 241, 'day': '2020-12-28', 'max': 248, 'min': 169}, {'avg': 151, 'day': '2020-12-29', 'max': 246, 'min': 136}, {'avg': 131, 'day': '2020-12-30', 'max': 137, 'min': 89}, {'avg': 136, 'day': '2020-12-31', 'max': 137, 'min': 135}, {'avg': 154, 'day': '2021-01-01', 'max': 157, 'min': 137}, {'avg': 159, 'day': '2021-01-02', 'max': 165, 'min': 143}], 
+		'uvi': [
+			{'avg': 1, 'day': '2020-12-25', 'max': 5, 'min': 0}, {'avg': 1, 'day': '2020-12-26', 'max': 5, 'min': 0}, {'avg': 1, 'day': '2020-12-27', 'max': 5, 'min': 0}, {'avg': 1, 'day': '2020-12-28', 'max': 5, 'min': 0}, {'avg': 1, 'day': '2020-12-29', 'max': 6, 'min': 0}, {'avg': 1, 'day': '2020-12-30', 'max': 5, 'min': 0}, {'avg': 0, 'day': '2020-12-31', 'max': 0, 'min': 0}]
+		}}, 
+	'debug': {'sync': '2020-12-27T18:18:19+09:00'}}} 
+
+
+DATA FOR NAGPUR :-->
+
+	{'status': 'ok', 'data': {'aqi': 143, 'idx': 12444, 'attributions': [{'url': 'http://cpcb.nic.in/', 'name': 'CPCB - India Central Pollution Control Board', 'logo': 'India-CPCB.png'}, {'url': 'https://waqi.info/', 'name': 'World Air Quality Index Project'}], 'city': {'geo': [21.152875, 79.0517531], 'name': 'Opp GPO Civil Lines, Nagpur, India', 'url': 'https://aqicn.org/city/india/nagpur/opp-gpo-civil-lines'}, 'dominentpol': 'pm25', 'iaqi': {'co': {'v': 2.5}, 'dew': {'v': 9}, 'h': {'v': 49.23333333333333}, 'no2': {'v': 15.6}, 'o3': 
+{'v': 4}, 'p': {'v': 1013}, 'pm10': {'v': 84}, 'pm25': {'v': 143}, 'so2': {'v': 0.6}, 't': {'v': 22.883333333333336}, 'w': {'v': 0.44333333333333336}}, 'time': {'s': '2020-12-27 14:00:00', 'tz': '+05:30', 'v': 1609077600, 'iso': '2020-12-27T14:00:00+05:30'}, 'forecast': {'daily': {'o3': [{'avg': 16, 'day': '2020-12-25', 'max': 37, 'min': 12}, {'avg': 25, 'day': '2020-12-26', 'max': 54, 'min': 9}, {'avg': 23, 'day': '2020-12-27', 'max': 42, 'min': 14}, {'avg': 22, 'day': '2020-12-28', 'max': 49, 'min': 17}, {'avg': 30, 'day': '2020-12-29', 'max': 64, 'min': 16}, {'avg': 29, 'day': '2020-12-30', 'max': 56, 'min': 19}, {'avg': 17, 'day': '2020-12-31', 'max': 36, 'min': 17}], 'pm10': [{'avg': 52, 'day': '2020-12-25', 'max': 52, 'min': 52}, {'avg': 52, 'day': '2020-12-26', 'max': 59, 'min': 45}, {'avg': 63, 'day': '2020-12-27', 'max': 71, 'min': 57}, {'avg': 61, 'day': '2020-12-28', 'max': 64, 'min': 57}, {'avg': 57, 'day': '2020-12-29', 'max': 57, 'min': 52}, {'avg': 57, 'day': '2020-12-30', 'max': 57, 'min': 57}, {'avg': 59, 'day': '2020-12-31', 'max': 63, 'min': 57}, {'avg': 66, 'day': '2021-01-01', 'max': 72, 'min': 57}, {'avg': 72, 'day': '2021-01-02', 'max': 72, 'min': 72}], 'pm25': [{'avg': 148, 'day': '2020-12-25', 'max': 152, 'min': 140}, {'avg': 148, 'day': '2020-12-26', 'max': 159, 'min': 137}, {'avg': 163, 'day': '2020-12-27', 'max': 172, 'min': 158}, {'avg': 161, 'day': '2020-12-28', 'max': 165, 'min': 157}, {'avg': 142, 'day': '2020-12-29', 
+'max': 155, 'min': 137}, {'avg': 154, 'day': '2020-12-30', 'max': 158, 'min': 140}, {'avg': 156, 'day': '2020-12-31', 'max': 158, 'min': 152}, {'avg': 164, 'day': '2021-01-01', 'max': 173, 'min': 158}, {'avg': 171, 'day': '2021-01-02', 'max': 173, 'min': 159}], 'uvi': [{'avg': 2, 'day': '2020-12-27', 'max': 5, 'min': 0}, {'avg': 1, 'day': '2020-12-28', 'max': 5, 'min': 0}, {'avg': 1, 'day': '2020-12-29', 'max': 5, 'min': 0}, {'avg': 1, 'day': '2020-12-30', 'max': 5, 'min': 0}, {'avg': 1, 'day': '2020-12-31', 'max': 5, 'min': 0}, {'avg': 0, 'day': '2021-01-01', 'max': 0, 'min': 0}]}}, 'debug': {'sync': '2020-12-27T18:41:34+09:00'}}}   
