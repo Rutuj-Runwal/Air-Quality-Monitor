@@ -1,6 +1,7 @@
 # Air-Quality-Monitor
 A python application with a simple GUI to check Air Quality in various cities based on user input. Based on AQICN and AQIUS Standards.
 
+For Improvements and Suggestions: rutujrunwal001@gmail.com OR Whatsapp: 7972080884
 # Current Features:
 - Get Air Quality Index[AQI] for Cities entered through User Input.
 - Nearest Location Data
