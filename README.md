@@ -1,5 +1,5 @@
 # Air-Quality-Monitor
-A python application with a simple GUI to check Air Quality in various cities based on user input. Based on AQICN and AQIUS Standards and Uses aqicn API to process requests.<br>__BETA RELEASE AVAILABLE FOR WINDOWS! :rocket:__
+A python application with a simple GUI to check Air Quality in various cities based on user input. Based on AQICN and AQIUS Standards. Powered by aqicn API.<br>__BETA RELEASE AVAILABLE FOR WINDOWS! :rocket:__
 
 For Improvements and Suggestions: rutujrunwal001@gmail.com OR Whatsapp: 7972080884
 
